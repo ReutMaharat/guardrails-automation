@@ -1,0 +1,55 @@
+{
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "value": "SwlePP6I6Zy6asRf0tZZDpilXeGzIINV3S6u4XJq7P8-1778415456.5080314-1.0.1.1-3YS__FkglrPm8ikQGeos.XQvMjgmHQcfk.0wIl_U8crbT0bMC42iQ7RLIBvFGVgyQfB.AmqxFXGJwfEnpnVxDGzp5L7SyVXdQbGpzCbaHHFYLYLTHci.7xFeVWYT0z.s",
+      "domain": ".auth.getnotch.dev",
+      "path": "/",
+      "expires": 1778417256.580985,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "Ow6Igbmnn7tSgDRZcncnrLs8tWQ_RPkb3iPZMPyB2Ws-1778415456.5080314-1.0.1.1-xX1Un_M6qHoYgiqEtW3bn1pWbmi7u0lkbwAAeQ40fbg",
+      "domain": ".auth.getnotch.dev",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://guardio.app.getnotch.dev",
+      "localStorage": [
+        {
+          "name": "dls_last_user_login_id",
+          "value": "reutmaharat@gmail.com"
+        },
+        {
+          "name": "userToggledNavBar",
+          "value": "false"
+        },
+        {
+          "name": "DS",
+          "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6IlNLMnIxTmNQSHFtVG9DdmhITlRjQlFOckZsdEZrIiwidHlwIjoiSldUIn0.eyJhbXIiOlsib2F1dGgiXSwiZGZzZiI6bnVsbCwiZHJuIjoiRFMiLCJlbWFpbCI6InJldXRtYWhhcmF0QGdtYWlsLmNvbSIsImV4cCI6MTc3ODQxNjA1NiwiaWF0IjoxNzc4NDE1NDU2LCJpc19lbXBsb3llZSI6ZmFsc2UsImlzcyI6IlAycjFOY1E2Z1FOQVZ3ZHBpU01tRDA1SUVzNEoiLCJuYW1lIjoi16jXoteV16og157XlNeo15giLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGNyRWk2OWQ2TjVURzhCbkM0aGZDZ3RteWpJRE1GYmFkaGU2eFVRYWFKN2pMUHBnPXM5Ni1jIiwicmV4cCI6IjIwMjYtMDYtMDdUMTI6MTc6MzZaIiwic3ViIjoiVTNEM3pURGZ4c3VQUlE5QzRUVnRxYWFBOVZNTCIsInRlbmFudHMiOnsiZ3VhcmRpbyI6eyJwZXJtaXNzaW9ucyI6WyJJbXBlcnNvbmF0ZSJdLCJyb2xlcyI6WyJBZG1pbiJdfX0sInVzZXJJZCI6IlUzRDN6VERmeHN1UFJROUM0VFZ0cWFhQTlWTUwifQ.LcRiClcjTktaI5hektNYBhS_uu6zuY6R46LogLkldi-OJbeTu9KCyYVpp4huDMYJz2jFKBsCJALRhXkRzUe1LxHB-erzV0VyaUdph33NHhC_PwQ3SlPc62FPdLG6ay6hCTReQ5X6MD5LyUSoS6Ugj_jjOToJz0iCEWkgrX9HYCrI8n-Pd04glSIgoTD4dkh4ZIJJy8GIK5CXbHmwEOqMA_4rxrcqcrWhdDYBvKz0TYvdDVxhOoNasJ7ZDtQFCwCjvJtgXCr2Sb0EhE56Ma1gQqCmFRTMJDaC8Jzvjeb7m7Zpi_j7aNOGYglc1144UDGghXFUWfuRavR47S7suvH9lw"
+        },
+        {
+          "name": "DSR",
+          "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6IlNLMnIxTmNQSHFtVG9DdmhITlRjQlFOckZsdEZrIiwidHlwIjoiSldUIn0.eyJhbXIiOlsib2F1dGgiXSwiZGZzZiI6bnVsbCwiZHJuIjoiRFNSIiwiZHYiOjEsImVtYWlsIjoicmV1dG1haGFyYXRAZ21haWwuY29tIiwiZXhwIjoxNzgwODM0MjgzLCJmdGkiOiJKM0RYNFN5SHJzYVJadEdaaWFNWFk5SE9DY3hrIiwiaWF0IjoxNzc4NDE1MDgzLCJpc19lbXBsb3llZSI6ZmFsc2UsImlzcyI6IlAycjFOY1E2Z1FOQVZ3ZHBpU01tRDA1SUVzNEoiLCJqdGkiOiJKM0RYNFN5SHJzYVJadEdaaWFNWFk5SE9DY3hrIiwibmFtZSI6Iteo16LXldeqINee15TXqNeYIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FDZzhvY0xjckVpNjlkNk41VEc4Qm5DNGhmQ2d0bXlqSURNRmJhZGhlNnhVUWFhSjdqTFBwZz1zOTYtYyIsInN1YiI6IlUzRDN6VERmeHN1UFJROUM0VFZ0cWFhQTlWTUwiLCJ1c2VySWQiOiJVM0QzelREZnhzdVBSUTlDNFRWdHFhYUE5Vk1MIn0.ToGr-9uE4CqX-MoNNZm7N-jS2s5ClpKp61buyr_WEjgEwE7dZM7UkldbWopyOa6wycszFG_9jp7cVbqV1wDB4vOds87BUX38RyI2QNEuDNjF0dXf3uQVV3IXjFY63b2QhvRhbtBfccHXHAMKO9_0bYT7iOcy0zEPYl8NIkE4L0J2PgmHUOFmLkzuYEGjBPt0r3fq4oZHBq5ohhabinb5_nJb56K531DR_t_FrAP8ZAoK3KKtkHFoDxGbhBRqVoIe0GNEYRjXWJZeMyxRO8wQpb8k0ixhRLBT0Olc22U8dlRj-HNJljj1BO5LqXL0ne149PQXCvg3KnYT5p3hAiCJUQ"
+        },
+        {
+          "name": "nav_activeView",
+          "value": "{\"parent\":\"conversations\",\"child\":\"\"}"
+        },
+        {
+          "name": "dls_last_user_display_name",
+          "value": "רעות מהרט"
+        }
+      ]
+    }
+  ]
+}
